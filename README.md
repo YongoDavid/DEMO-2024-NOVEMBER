@@ -4,5 +4,5 @@ KEEP PUTTING THE HOURS , KEEP TRANING , AS THE RESULTS ARE SHOWING THE GRIND GET
 
 NOV 01
 i will be working on my daily tasks , i have issues hosting my ruby project , i have to sort that out.
-I have made more UI updates to my TEAMS project, but there is still other things to do.
-
+I have made more UI updates to my TEAMS project, but there are still other things to do.
+And the NOELFX project is still in production.
