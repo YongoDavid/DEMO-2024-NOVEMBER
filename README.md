@@ -15,3 +15,4 @@ There is alot of progress on the TEAMS app but also alot of errors after switchi
 
 Nov 03
 New week , new grind!
+TEAMS APP, UI update this week was amazing.
