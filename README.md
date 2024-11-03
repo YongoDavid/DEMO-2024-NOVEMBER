@@ -14,3 +14,4 @@ New day , new grind!
 There is alot of progress on the TEAMS app but also alot of errors after switching up the UI. 
 
 Nov 03
+New week , new grind!
