@@ -16,3 +16,4 @@ There is alot of progress on the TEAMS app but also alot of errors after switchi
 Nov 03
 New week , new grind!
 TEAMS APP, UI update this week was amazing.
+Landig page , Login page , Signup page, dashboard and other pages look good for now, till i am ready to make another adjustments
