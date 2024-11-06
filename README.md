@@ -24,3 +24,4 @@ I am having issues hosting the TEAMS project on render , so now i am switching t
 NOV 06
 The Grind does not stop!
 i really dont know what to do again concerning the TEAMS projec that is not hosting.
+it didnt work at all for render i am trying my last hope which is vercel.
