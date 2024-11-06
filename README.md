@@ -17,3 +17,5 @@ Nov 03
 New week , new grind!
 TEAMS APP, UI update this week was amazing.
 Landig page , Login page , Signup page, dashboard and other pages look good for now, till i am ready to make another adjustments
+
+NOV 05
