@@ -22,3 +22,4 @@ NOV 05
 I am having issues hosting the TEAMS project on render , so now i am switching to vercel , i hope this works.
 
 NOV 06
+Thhe Grind does not stop!
