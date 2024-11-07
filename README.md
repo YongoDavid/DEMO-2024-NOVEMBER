@@ -31,4 +31,4 @@ Another day, another grind!
 Vercel is currently having some server issues so i will be leaving it for now and will check back later.
 
 NOV 08
-
+New day , new grind.
