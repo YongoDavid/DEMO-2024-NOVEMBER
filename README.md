@@ -27,3 +27,4 @@ i really dont know what to do again concerning the TEAMS projec that is not host
 it didnt work at all for render i am trying my last hope which is vercel.
 
 NOV 07
+
