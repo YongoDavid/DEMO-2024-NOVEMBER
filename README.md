@@ -28,3 +28,4 @@ it didnt work at all for render i am trying my last hope which is vercel.
 
 NOV 07
 Another day, another grind!
+Vercel is currently having some server issues so i will be leaving it for now and will check back later.
