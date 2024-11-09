@@ -36,3 +36,4 @@ i will start using cursor and build the rest of my projects with it.
 
 NOV 09
 New day , new grind!!
+Sadly i have put a hold to the TEAMS project for now , till i am able to host it and then i will continue developing it.
