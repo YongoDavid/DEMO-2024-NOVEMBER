@@ -35,4 +35,4 @@ New day , new grind.
 i will start using cursor and build the rest of my projects with it.
 
 NOV 09
-
+New day , new grind!!
