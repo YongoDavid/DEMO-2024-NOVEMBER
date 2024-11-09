@@ -33,3 +33,6 @@ Vercel is currently having some server issues so i will be leaving it for now an
 NOV 08
 New day , new grind.
 i will start using cursor and build the rest of my projects with it.
+
+NOV 09
+
