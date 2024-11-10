@@ -42,3 +42,6 @@ i am working on the Noelfx website now.
 NOV 10
 New day , same grind!
 chill day , just light work.
+
+NOV 11
+
