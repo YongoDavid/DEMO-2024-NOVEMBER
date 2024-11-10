@@ -44,4 +44,3 @@ New day , same grind!
 chill day , just light work.
 
 NOV 11
-
