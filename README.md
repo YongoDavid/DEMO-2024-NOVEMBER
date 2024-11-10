@@ -46,3 +46,4 @@ chill day , just light work.
 NOV 11
 New day , new week , same grind.
 This week i must make significant progress on the noel project , i have been sleeping on it.
+So lets see how the week goes.
