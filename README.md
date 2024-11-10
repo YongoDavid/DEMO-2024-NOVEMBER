@@ -40,4 +40,4 @@ Sadly i have put a hold to the TEAMS project for now , till i am able to host it
 i am working on the Noelfx website now.
 
 NOV 10
-
+New day , same grind!
