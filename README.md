@@ -51,3 +51,4 @@ So lets see how the week goes.
 NOV 12
 New day , same grind!!.
 Sill working on the Noel project.
+Fixing alot of errors.
