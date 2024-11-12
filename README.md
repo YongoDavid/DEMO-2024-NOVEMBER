@@ -49,3 +49,4 @@ This week i must make significant progress on the noel project , i have been sle
 So lets see how the week goes.
 
 NOV 12
+New day , same grind!!.
