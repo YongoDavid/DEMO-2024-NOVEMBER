@@ -54,3 +54,4 @@ Sill working on the Noel project.
 Fixing alot of errors.
 
 NOV 13
+Noels project is getting good traction , all errors have been fixed and everything is moving well
