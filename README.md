@@ -57,3 +57,5 @@ NOV 13
 Another day, another grind!
 Noels project is getting good traction , all errors have been fixed and everything is moving well.
 Now we start from UI updates on all the pages.
+
+NOV 14
