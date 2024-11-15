@@ -61,3 +61,8 @@ Now we start from UI updates on all the pages.
 NOV 14
 New day , same grind
 Good progress on the Noel website.
+
+NOV 15
+new day, same grind.
+
+
