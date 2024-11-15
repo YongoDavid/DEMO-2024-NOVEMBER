@@ -64,5 +64,5 @@ Good progress on the Noel website.
 
 NOV 15
 new day, same grind.
-
+Noel project getting UI updates everyday.
 
