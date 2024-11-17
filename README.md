@@ -70,3 +70,6 @@ NOV 16
 New day , same grind!!
 The home page for the Noel Project is coming in and looking good.
 I still need more design inspirations to advance my current deign.
+
+NOV 17
+
