@@ -72,4 +72,4 @@ The home page for the Noel Project is coming in and looking good.
 I still need more design inspirations to advance my current deign.
 
 NOV 17
-
+Sunday Chillday but i will still pull in somework.
