@@ -74,3 +74,4 @@ I still need more design inspirations to advance my current deign.
 NOV 17
 Sunday Chillday but i will still pull in somework.
 Still on the Noel Project.
+The home page UI will soon be done.
