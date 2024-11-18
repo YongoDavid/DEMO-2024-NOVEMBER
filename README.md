@@ -77,3 +77,4 @@ Still on the Noel Project.
 The home page UI will soon be done.
 
 NOV 18
+Another week another , same grind . lets goo!!!.
