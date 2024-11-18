@@ -75,3 +75,5 @@ NOV 17
 Sunday Chillday but i will still pull in somework.
 Still on the Noel Project.
 The home page UI will soon be done.
+
+NOV 18
