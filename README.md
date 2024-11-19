@@ -78,3 +78,6 @@ The home page UI will soon be done.
 
 NOV 18
 Another week another , same grind . lets goo!!!.
+
+NOV 19
+
