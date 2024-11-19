@@ -80,4 +80,4 @@ NOV 18
 Another week another , same grind . lets goo!!!.
 
 NOV 19
-
+Amzing progress on the noel project.
