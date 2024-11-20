@@ -80,7 +80,8 @@ NOV 18
 Another week another , same grind . lets goo!!!.
 
 NOV 19
-Amzing progress on the noel project.
+Amazing progress on the noel project.
 everything is going as planned.
 
 NOV 20
+Another day , same grind!!.
