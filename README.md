@@ -85,3 +85,4 @@ everything is going as planned.
 
 NOV 20
 Another day , same grind!!.
+i am getting good traction on the Noel project 
