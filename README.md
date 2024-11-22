@@ -94,3 +94,4 @@ Next i will be looking to add some features for students to use on the website.
 
 NOV 22
 Crazy progress this week on the Noel project.
+a few more thing left and then adding the features required to make the application standout.
