@@ -98,4 +98,4 @@ Crazy progress this week on the Noel project.
 a few more thing left and then adding the features required to make the application standout.
 
 NOV 24
-
+Sunday, chill day.
