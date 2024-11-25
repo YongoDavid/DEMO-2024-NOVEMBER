@@ -102,3 +102,4 @@ Sunday, chill day.
 sadly i broke my github streaks
 
 NOV 25
+New ween, new grind.
