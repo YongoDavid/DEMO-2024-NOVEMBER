@@ -103,3 +103,4 @@ sadly i broke my github streaks
 
 NOV 25
 New ween, new grind.
+Last week was amazing, this week is going to be better.
