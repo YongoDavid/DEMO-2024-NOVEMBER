@@ -102,8 +102,8 @@ Sunday, chill day.
 sadly i broke my github streaks
 
 NOV 25
-New ween, new grind.
+New week, new grind.
 Last week was amazing, this week is going to be better.
 
 NOV 26
-
+New week, new grind.
