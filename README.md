@@ -107,3 +107,4 @@ Last week was amazing, this week is going to be better.
 
 NOV 26
 New week, new grind.
+I have finished up on all the pages for large screens , i just need to run a few more test.
