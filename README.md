@@ -111,3 +111,4 @@ I have finished up on all the pages for large screens , i just need to run a few
 it is time to design for mobile and larger screens.
 
 NOV 27
+i will be focusing fully on designing for mobile now.
