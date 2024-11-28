@@ -115,4 +115,4 @@ i will be focusing fully on designing for mobile now.
 lets see how it goes.
 
 NOV 28
-
+New day , same grind!
