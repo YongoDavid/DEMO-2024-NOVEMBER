@@ -121,3 +121,4 @@ The mobile UI for the Noel project is going well , there are alot of design impr
 NOV 29
 New day , new grind
 Finally done with the responsive design for the Noel project(small and large screens).
+i just need to do a few more tests , then submit it to Noel by saturday and get the gig.
