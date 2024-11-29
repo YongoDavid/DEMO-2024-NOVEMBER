@@ -117,3 +117,5 @@ lets see how it goes.
 NOV 28
 New day , same grind!
 The mobile UI for the Noel project is going well , there are alot of design improvements.
+
+NOV 29
