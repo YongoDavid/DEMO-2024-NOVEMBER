@@ -124,4 +124,4 @@ Finally done with the responsive design for the Noel project(small and large scr
 i just need to do a few more tests , then submit it to Noel by saturday and get the gig.
 
 NOV 30
-
+This month is coming to an end today , it has been an amazing month soo far!.
