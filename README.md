@@ -1,8 +1,7 @@
 # DEMO-2024-NOVEMBER
 it has been an amazing year soo far , but the codes dont stop , keep working!!
-KEEP PUTTING THE HOURS , KEEP TRANING , AS THE RESULTS ARE SHOWING THE GRIND GETS MORE ADDICTIVE.
+KEEP PUTTING IN THE HOURS , KEEP TRANING , AS THE RESULTS ARE SHOWING THE GRIND GETS MORE ADDICTIVE.
 LETS SEE HOW THIS MONTH GOES.
-
 
 NOV 01
 i will be working on my daily tasks , i have issues hosting my ruby project , i have to sort that out.
@@ -16,14 +15,14 @@ There is alot of progress on the TEAMS app but also alot of errors after switchi
 Nov 03
 New week , new grind!
 TEAMS APP, UI update this week was amazing.
-Landig page , Login page , Signup page, dashboard and other pages look good for now, till i am ready to make another adjustments
+LandiNg page , Login page , Signup page, dashboard and other pages look good for now, till i am ready to make another adjustments
 
 NOV 05
 I am having issues hosting the TEAMS project on render , so now i am switching to vercel , i hope this works.
 
 NOV 06
 The Grind does not stop!
-i really dont know what to do again concerning the TEAMS projec that is not hosting.
+i really dont know what to do again concerning the TEAMS project that is not hosting.
 it didnt work at all for render i am trying my last hope which is vercel.
 
 NOV 07
